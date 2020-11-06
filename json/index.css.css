@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+ margin:20px;
+    font-size: large;
+    color: White;
+    text align: left;
+}
+
+  
+  body {
+     color: Black;
+    background-image:url("https://assets.hongkiat.com/uploads/beautiful-minimalist-desktop-wallpapers/4k/original/01.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+   
+      
+  }
+ 
